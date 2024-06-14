@@ -1,4 +1,5 @@
 import 'package:audio_video_player/latihan/splash_screen.dart';
+import 'package:audio_video_player/latihan/video_player_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
